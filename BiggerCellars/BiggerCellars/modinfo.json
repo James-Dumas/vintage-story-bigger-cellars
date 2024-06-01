@@ -5,7 +5,7 @@
     "authors": [
         "Jamac"
     ],
-    "description": "Increases size limit of cellars",
+    "description": "Removes the size limit of cellars",
     "version": "1.0.0",
     "dependencies": {
         "game": ""
